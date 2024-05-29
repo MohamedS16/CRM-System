@@ -17,7 +17,7 @@ app.use(cors({
 }))
 
 dotenv.config()
-
+//ok
 app.use(express.json())
 app.use(cookieParser())
 
